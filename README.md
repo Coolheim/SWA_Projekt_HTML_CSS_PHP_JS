@@ -1,2 +1,7 @@
-# projekt_s_zakladni_strukturou_ds
+# Projekt:
+## Použité prog. jazyky:
+###    - HTML
+###    - CSS
+###    - PHP
+###    - JS
  
