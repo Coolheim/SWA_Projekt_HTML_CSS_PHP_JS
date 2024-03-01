@@ -9,6 +9,6 @@
     <?php include "templates/header.php";?>
     <p>Toto je webová stránka s textovou hrou v javascriptu.</p>
     <button><a href="php/hra1.php">Textová hra</a></button>
-    <button><a href="php/SkakackaHra.php">Skákačka</a></button>
+    
 </body>
 </html>
