@@ -15,3 +15,8 @@
 ####  - styleHra1.css
 
 ##### ješte není dokončena
+
+
+
+## Hra bude mít pár miniher
+#### Jedna z prvních by měla být TETRIS nebo nějaká skákačka
